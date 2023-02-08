@@ -1,2 +1,2 @@
 # Friends
-practicing github 
+upload all the activities done at here
